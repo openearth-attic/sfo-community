@@ -3,7 +3,7 @@ title: San Francisco Community Model
 email: fedor.baart@deltares.nl
 description: "The San Francisco Bay Community model"
 baseurl: ""
-url: "http://sfo-community.github.io"
+url: "http://openearth.github.io/sfo-community"
 
 # Build settings
 markdown: kramdown
