@@ -1,0 +1,10 @@
+# Site settings
+title: San Francisco Community Model
+email: fedor.baart@deltares.nl
+description: "The San Francisco Bay Community model"
+baseurl: ""
+url: "http://sfo-community.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
